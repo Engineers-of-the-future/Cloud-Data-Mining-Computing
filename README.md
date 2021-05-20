@@ -11,7 +11,7 @@ All the access to the architecture is handled through the Amazon API Gateway Ser
 
 To illustrate this architecture we have the next Figure.
 
-(img/arq.PNG)
+![img1](img/arq.PNG)
 
 ## Author
 
