@@ -1,4 +1,4 @@
-# Cloud-Data-Mining-Computing
+# Cloud Data Mining Computing
 
 With the large amounts of information handled in this era, the ability to analyze it has become a problem for companies.
 The use of Cloud Data Mining as a web analytics tool can help us develop digital analysis strategies for modern companies.
@@ -16,11 +16,11 @@ To illustrate this architecture we have the next Figure.
 
 ![img1](img/arq.PNG)
 
-## Author
+## Authors
 
 * **Nicolás Aguilera Contreras** 
-* **Daniel Felipe Walteros Trujillo**
 * **Nicolás Ortega Limas**
+* **Daniel Felipe Walteros Trujillo**
 
 ## License
 
