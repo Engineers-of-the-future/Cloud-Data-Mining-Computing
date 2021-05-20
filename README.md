@@ -1,5 +1,8 @@
 # Cloud-Data-Mining-Computing
 
+With the large amounts of information handled in this era, the ability to analyze it has become a problem for companies.
+The use of Cloud Data Mining as a web analytics tool can help us develop digital analysis strategies for modern companies.
+
 ## How does this architecture work? 
 All the access to the architecture is handled through the Amazon API Gateway Service, this service connects only to three AWS Lambda functions.
 
