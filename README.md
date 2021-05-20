@@ -10,3 +10,15 @@ All the access to the architecture is handled through the Amazon API Gateway Ser
 * The Main Node function obtains the results of the events so that the company's analysts can determine modifications or creations in their market strategies based on the activity of their digital platforms; as the amount of these events is very large, the Main Node function distributes the work using the Map Reduce algorithm using instances of the Mining Node function.
 
 To illustrate this architecture we have the next Figure.
+
+(img/arq.PNG)
+
+## Author
+
+* **Nicolás Aguilera Contreras** 
+* **Daniel Felipe Walteros Trujillo**
+* **Nicolás Ortega Limas**
+
+## License
+
+This project is under GNU General Public License - see the [LICENSE](LICENSE) file for details.
