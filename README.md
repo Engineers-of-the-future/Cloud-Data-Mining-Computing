@@ -16,6 +16,8 @@ To illustrate this architecture we have the next Figure.
 
 ![img1](img/arq.PNG)
 
+The whole investigation is on the document on this [LINK](/Paper.pdf)
+
 ## Authors
 
 * **Nicolás Aguilera Contreras** 
