@@ -16,6 +16,10 @@ To illustrate this architecture we have the next Figure.
 
 ![img1](img/arq.PNG)
 
+We concluded that according to the results analyzed, with a record of at least 1000 events there was a performance of 46% with respect to the traditional approach of event processing; although this percentage is reduced to a greater amount of data, it is a very significant savings for the digital analysts of a company to better estimate their results and adapt their marketing plans.
+
+![img1](img/results.JPG)
+
 The whole investigation is on the document on this [LINK](/Paper.pdf)
 
 ## Authors
